@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "ctf:reset": "bash scripts/ctf-reset.sh",
     "test": "vitest run",
     "test:watch": "vitest"
   },
