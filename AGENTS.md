@@ -6,7 +6,6 @@ This file provides workflow guidance for AI coding agents working on this reposi
 
 - Follow TDD: write failing tests before implementation code
 - Run the full test suite before committing (`npm test`)
-- Use the `creative-commits` skill for commit messages
 - Push to the remote after each commit
 
 ## Demo mode (read carefully)
